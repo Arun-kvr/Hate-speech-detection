@@ -1,1 +1,1 @@
-# Hate-speech-detection
+# Twitter-Hate-speech-detection
